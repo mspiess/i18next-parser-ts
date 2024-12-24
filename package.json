@@ -1,0 +1,23 @@
+{
+  "name": "i18next-parser-ts",
+  "version": "0.0.1",
+  "description": "Parse your typescript code to extract translation keys",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "i18next",
+    "parser"
+  ],
+  "author": "Marco Spieß",
+  "license": "MIT",
+  "dependencies": {
+    "typescript": "^5.7.2"
+  },
+  "devDependencies": {
+    "@types/node": "^22.10.2",
+    "vitest": "^2.1.8"
+  }
+}
